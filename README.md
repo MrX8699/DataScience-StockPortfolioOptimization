@@ -19,8 +19,8 @@ Key insights and takeaways relevant to finance or business strategy
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/finance-data-science-portfolio.git
-cd finance-data-science-portfolio
+git clone https://github.com/MrX8699/Data-Science.git
+cd Stock_Portfolio_Optimization
 
 
 Open any project folder and review the README or notebook.
