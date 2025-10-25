@@ -7,19 +7,6 @@ As a Senior Data Analyst with experience leading BI teams and building data-driv
 Each project reflects a practical use case from the intersection of finance, analytics, and data science — highlighting my approach to transforming complex data into actionable insights.
 
 ### Repository Structure
-📁 finance-data-science-portfolio/
-│
-├── README.md
-├── Stock_Portfolio_Optimization/
-|   ├── Data/
-│   ├── Notebook/ 
-|   |   ├── notebook.ipynb
-|   |   └── notebook.html
-│   └── README.md
-│
-└── ...
-
-
 Each folder contains:
 
 A clear problem statement
@@ -27,3 +14,21 @@ A clear problem statement
 Notebook demonstrating the analysis
 
 Key insights and takeaways relevant to finance or business strategy
+
+### How to Explore
+
+Clone the repository:
+
+git clone https://github.com/<your-username>/finance-data-science-portfolio.git
+cd finance-data-science-portfolio
+
+
+Open any project folder and review the README or notebook.
+
+### Connect
+
+If you’re looking for a data-driven professional passionate about connecting analytics with business impact in the financial sector, I’d love to connect.
+
+📧 Email: xella.alessandro@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/alessandro-xella-56bbbb196
