@@ -9,11 +9,11 @@ Each project reflects a practical use case from the intersection of finance, ana
 ### Repository Structure
 Each folder contains:
 
-A clear problem statement
+- A clear problem statement
 
-Notebook demonstrating the analysis
+- Notebook demonstrating the analysis
 
-Key insights and takeaways relevant to finance or business strategy
+- Key insights and takeaways relevant to finance or business strategy
 
 ### How to Explore
 
